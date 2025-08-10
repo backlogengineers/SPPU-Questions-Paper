@@ -1,2 +1,2 @@
 # SPPU-Questions-Paper
-SPPU All Questions Paper And Importants
+SPPU 2019 PATTERN COMPUTER ENGINEERING All Importants Questions 
